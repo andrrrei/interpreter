@@ -1,0 +1,28 @@
+program
+
+function max( g: integer): integer;
+var i: integer;
+begin
+write(10)
+end,
+
+procedure min( );
+var j: integer;
+begin
+write(30)
+end,
+
+function dec( ): boolean;
+var d: integer;
+begin
+write(40)
+end,
+
+var k: integer, mas1, mas2: array [5] of integer;
+
+begin
+min();
+k:=9;
+write(k+20)
+
+end.
